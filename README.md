@@ -3,6 +3,10 @@ Reimplementation of Andrej Karpathy [nanoGPT](https://github.com/karpathy/nanoGP
 
 ## Run
 
+```shell
+python gpt.py
+```
+
 ## Authors
 
 * **Vadim Titko** aka *Vadbeg* -
